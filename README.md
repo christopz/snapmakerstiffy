@@ -1,1 +1,3 @@
-![StiffyKit Machined Isolated Screenshot](/profile/banner.jpg)
+# Snapmaker Stiffy Kit by CTZcnc
+
+![StiffyKit-Machined-Isolated-Screenshot](/profile/stiffy.jpg)
