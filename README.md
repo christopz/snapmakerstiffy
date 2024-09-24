@@ -1,1 +1,1 @@
-Test one two three
+![StiffyKit Machined Isolated Screenshot](/profile/banner.jpg)
