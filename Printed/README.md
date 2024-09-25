@@ -1,1 +1,1 @@
-Stiffy Kit - printed version
+# Printed Version
