@@ -9,12 +9,15 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 # BOM
 - 4x MGN15 450mm Linear Rail w/ 1x MGN15H Carriage (https://a.co/d/4GWaNjs)
 - 2x additional MGN15H Carriages for Z rails (https://a.co/d/9uLGyMj)
-- xx M3 x 10mm Socket Head Cap Screws
-- xx M4 x 10mm Socket Head Cap Screws
-- xx M5 x 16mm Socket Head Cap Screws
+- 48x M3 x 8mm Socket Head Cap Screws
+- 24x M3 x 12mm Socket Head Cap Screws
+- 8x M4 x 10mm Socket Head Cap Screws (I used spares from the Snapmaker)
+- 56x M4 x 12mm Socket Head Cap Screws
+- 8x M5 x 16mm Socket Head Cap Screws (Or button head)
 - 1/4" (6.35mm) Aluminum Plate for the X & Z Rail Brackets, and Stiffy bracket spacers
 - 3/16" (4.78mm) Aluminum Plate for the Stiffy brackets
 - 3/8" (9.53mm) Aluminum Plate for the Toolhead Adapter brackets
+- M3 & M5 Spiral Flute Tap for threading your machined plates
 
 # NOTES
 It is highly recommended you print the "Machined" step files to prototype / fit your rails & brackets to your machine.  I know Snapmakers should be standardized, but I found very slight differences between my machines which needed adjustment,  especially due to variations & tolerances in finished machined parts.  Spacers / shims may be necessary depending on your accuracy.
