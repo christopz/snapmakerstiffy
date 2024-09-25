@@ -1,3 +1,3 @@
-![blah](./profile/xassembly.gif)
+# Machined .step files
 
-<img src="./profile/xassembly.gif" width="75%" height="75%"/>
+Current version
