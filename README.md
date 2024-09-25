@@ -7,7 +7,6 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 ![xassembly](./profile/xassembly.gif)
 
 # BOM
-
 - 4x MGN15 450mm Linear Rail w/ 1x MGN15H Carriage (https://a.co/d/4GWaNjs)
 - 2x additional MGN15H Carriages for Z rails (https://a.co/d/9uLGyMj)
 - xx M3 x 10mm Socket Head Cap Screws
@@ -18,8 +17,12 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 - 3/8" (9.53mm) Aluminum Plate for the Toolhead Adapter brackets
 
 # NOTES
+It is highly recommended you print the "Machined" step files to prototype / fit your rails & brackets to your machine.  I know Snapmakers should be standardized, but I found very slight differences between my machines which needed adjustment,  especially due to variations & tolerances in finished machined parts.  Spacers / shims may be necessary depending on your accuracy.
 
 # TO DO
+- Finish & upload a final Printed version
+- Adapt <a href="https://www.thingiverse.com/thing:4909694" target="_blank">BluegrassBlaster's</a> cable chain mod to work with the Stiffy Kit
+- Design & print a proper toolhead mount for mist coolant
 
 This project is licensed as
 ![license](./profile/license.png)
