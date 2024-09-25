@@ -6,6 +6,8 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 
 ![xassembly](./profile/xassembly.gif)
 
+![stiffyplates](./profile/stiffyplates.jpg)
+
 # BOM
 - 4x MGN15 450mm Linear Rail w/ 1x MGN15H Carriage (https://a.co/d/4GWaNjs)
 - 2x additional MGN15H Carriages for Z rails (https://a.co/d/9uLGyMj)
