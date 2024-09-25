@@ -8,5 +8,7 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 
 # BOM
 
-2x MGN15 450mm Linear Rail w/ 1x MGN15H Carriage (https://a.co/d/4GWaNjs)
-2x MGN15 450mm Linear Rail w/ 2x MGN15H Carriage (https://a.co/d/9uLGyMj)
+- 2x MGN15 450mm Linear Rail w/ 1x MGN15H Carriage (https://a.co/d/4GWaNjs)
+- 2x MGN15 450mm Linear Rail w/ 2x MGN15H Carriage (https://a.co/d/9uLGyMj)
+- xx M3 x 10mm Socket Head Bolts
+- xx M4 x 10mm Socket Head Bolts
