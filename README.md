@@ -18,3 +18,8 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 - 3/8" (9.53mm) Aluminum Plate for the Toolhead Adapter brackets
 
 # NOTES
+
+# TO DO
+
+This project is licensed as
+![license](./profile/license.png)
