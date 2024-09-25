@@ -6,6 +6,4 @@ The Stiffy Kit is a set of machined or printed parts to add MGN15 rails & MGN15H
 
 <img src="./profile/xassembly.gif" width="75%" height="75%"/>
 
-![xassembly.gif](https://github.com/christopz/snapmakerstiffy/blob/main/profile/xassembly.gif)
-
 ![blah](./profile/xassembly.gif)
